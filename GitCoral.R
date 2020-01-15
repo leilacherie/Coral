@@ -11,7 +11,7 @@ compensation <- read.csv ("compensation.csv")
 kjasg´ksajgáskgjas´lk
 lga´ñglja´
 
-
+# Hello to you! 
 
 
 this is something to try the revert 
