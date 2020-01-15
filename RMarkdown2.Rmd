@@ -28,7 +28,10 @@ Then I want to make a graph to explain the data
 ```{r}
  
 ggplot(compensation, aes(x=Root, y= Fruit, colour=Grazing)) +
-  geom_point()
+  geom_point() + 
+  scale_colour_manual(values = c("springgreen", "tomato1"))+
+  theme_bw()
+
 
 ```
 
