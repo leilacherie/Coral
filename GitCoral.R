@@ -17,3 +17,5 @@ lga´ñglja´
 this is something to try the revert 
 and then again another to try the revert function 
 no this is not what I wanted to do 
+
+oh maybe this is why we have to do to check all this stuff 
